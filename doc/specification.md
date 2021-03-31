@@ -1,1 +1,1 @@
-#Informatika 2 Házi feladat specifikáció
+# Informatika 2 Házi feladat specifikáció
