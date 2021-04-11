@@ -26,6 +26,7 @@ Az adatbázis a következő entitásokat és attribútumokat tárolja:
  * Categories: id, kategória neve
  * Reviews: id, értékelés (1-5), értékelés szövege
  * Admins: id, admin felhasználóneve, admin jelszava hashelve
+
 A MySQL Workbench-ben megtervezett adatbázis séma:
 ![Kep](./dbschema.png "schema")
 
