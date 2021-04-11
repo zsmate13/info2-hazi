@@ -1,7 +1,7 @@
 # Informatika 2 Házi feladat specifikáció
 	Webshop
 ## A feladat informális leírása
-A feladat célja egy webshop elkészítése, PHP HTML CSS JavaScript és adatbázis kezelés technológiák használatával. Cél, hogy a weboldalon lehessen megrendeléseket leadni illetve azokat adminisztrálni a bolt számára.
+A feladat célja egy webshop elkészítése, PHP HTML CSS JavaScript és adatbázis kezelés technológiák használatával. Cél, hogy a weboldalon lehessen megrendeléseket leadni illetve azokat adminisztrálni a bolt számára. A webshop elsődleges nyelve az angol.
 ## Elérhető funkciók
 Az alkalmazás következő funkciókat biztosítja:
  * Webshop:
